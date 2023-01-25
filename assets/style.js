@@ -84,8 +84,8 @@ $("body").css("font-weight", bodyfontweight);
 $("body").css("font-size", bodyfontsize);
 $("body").css("background-color", backgroundcolor);
 
-$("a").css("color", acolor);
-$("a").css("text-decoration", adecoration);
+// $("a").css("color", acolor);
+// $("a").css("text-decoration", adecoration);
 
 $(".menulink").css("color", menucolor);
 $(".menulink").css("font-size", menufontsize);

@@ -11,6 +11,25 @@ a:hover {
     /* color: #444; */
 }
 
+p.a {
+    font: 20px Times, sans-serif;
+    color: rgb(50, 50, 50);
+}
+
+p.b {
+    font: 40px Times, sans-serif;
+    color: rgb(50, 50, 50);
+}
+
+p.my_name {
+    font: 40px Times, sans-serif;
+    color: rgb(124, 130, 147);
+}
+
+a.my_pro {
+    font: 20px Times, sans-serif;
+    color: rgb(124, 130, 147);
+}
 
 .noter {
     font-size: 9pt;
@@ -43,7 +62,8 @@ a:hover {
 
 .profilepic {
     width: 150px;
-    border-radius: 40%;
+    border-radius: 10%;
+    place-items: left;
     /* filter: grayscale(100%); */
 }
 
