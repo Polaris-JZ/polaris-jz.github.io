@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a master student from National University of Singapore. I graduated from Beijing Institute of Technology in China with a bachelor's degree in Automation. Now, I am a research intern at NExT Research Center in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on recommendation and information retrieval.
+Hi! This is Jujia Zhao, a master student from National University of Singapore. My major is Industry 4.0 (Deep Learning for Industry). I graduated from Beijing Institute of Technology in China with a bachelor's degree in Automation. Now, I am a research intern at NExT Research Center in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on recommendation and information retrieval.
 
 
 # 📝 Publications 
