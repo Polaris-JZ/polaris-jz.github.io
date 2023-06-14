@@ -31,7 +31,7 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore. 
   **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner)
 
 # 📖 Educations
-- *2022.08 - now*, Master student of Science, National University of Singapore.
+- *2022.08 - now*, Master of Science, National University of Singapore.
 - *2021.08 - 2022.01*, Exchange student in Department of Electronic and Information Engineering, The Hong Kong Polytechnic University. 
 - *2018.08 - 2022.06*, Bachelor of Automation, Beijing Institute of Technology.
 
