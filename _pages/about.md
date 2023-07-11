@@ -22,13 +22,13 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore. 
 
 # 📝 Publications 
 
-- [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+- Popularity-aware Distributionally Robust Optimization for Recommendation System
 
-  TLDR: *We propose a novel interactive planning approach using LLMs that brings a planning-based agent to the apex of Minecraft (an open-world environment) for the first time.*
+  TLDR: *We propose a novel Popularity-aware Distributionally Robust Optimization (PDRO) framework which emphasizes the optimization of sparse users/items, while incorporating item popularity to preserve the performance of popular items in recommendation system.*
 
-  **Zihao Wang**, [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)
+  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and Tat-Seng Chua
 
-  **arXiv preprint** \| [Paper](https://arxiv.org/pdf/2302.01560.pdf) \| [Code](https://github.com/CraftJarvis/MC-Planner)
+  **CIKM (Under Review)**
 
 # 📖 Educations
 - *2022.08 - now*, Master of Science, National University of Singapore.
@@ -36,4 +36,5 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore. 
 - *2018.08 - 2022.06*, Bachelor of Automation, Beijing Institute of Technology.
 
 # 💻 Internships
+- *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
 - *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
