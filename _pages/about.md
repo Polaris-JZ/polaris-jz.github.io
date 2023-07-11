@@ -26,9 +26,9 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore. 
 
   TLDR: *We propose a novel Popularity-aware Distributionally Robust Optimization (PDRO) framework which emphasizes the optimization of sparse users/items, while incorporating item popularity to preserve the performance of popular items in recommendation system.*
 
-  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and Tat-Seng Chua
+  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-  **CIKM (Under Review)**
+  **CIKM (Under Review)** \| Paper \| Code
 
 # 📖 Educations
 - *2022.08 - now*, Master of Science, National University of Singapore.
@@ -36,5 +36,6 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore. 
 - *2018.08 - 2022.06*, Bachelor of Automation, Beijing Institute of Technology.
 
 # 💻 Internships
+- *2022.08 - Present*, Research Intern, NExT Research Center, NUS, Singapore.
 - *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
 - *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
