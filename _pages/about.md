@@ -28,7 +28,7 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore (
 
   **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-  **CIKM 2023 (Accepted)** \| Paper \| Code
+  **CIKM 2023** \| Paper \| Code
 
 # 📖 Educations
 - *2022.08 - now*, Master of Science, National University of Singapore.
