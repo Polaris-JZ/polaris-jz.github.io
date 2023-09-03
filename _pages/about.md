@@ -33,47 +33,43 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
   **CIKM 2023** \| Paper \| [Code](https://github.com/Polaris-JZ/PDRO)
 
-# 📖 Educations
-- *2022.08 - now*, Master of Science, National University of Singapore.
-- *2021.08 - 2022.01*, Exchange student in Department of Electronic and Information Engineering, The Hong Kong Polytechnic University. 
-- *2018.08 - 2022.06*, Bachelor of Automation, Beijing Institute of Technology.
-
-# 💻 Internships
-- *2022.08 - now*, Research Intern, NExT Research Center, Singapore.
-- *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
-- *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
 
 # 📖 Educations
 
 <div class='school-box'>
 <div><img src='images/NUS_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.08 - now, PhD student
+2022.08 - now
 
-School of Artifical Intelligence
+Master of Science
 
-Peking University, Beijing
+National University of Singapore, Singapore
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/PolyU_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - 2022.06, Master
+2021.08 - 2022.01, Master
 
-Institute of Computing Technology, Chinese Academy of Sciences
+Exchange student in Department of Electronic and Information Engineering
 
-University of Chinese Academy of Sciences, Beijing
+The Hong Kong Polytechnic University, Hong Kong
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/BIT_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2015.09 - 2019.06, Undergraduate
+2018.08 - 2022.06
 
-Software College
+Bachelor of Automation
 
-Xi'an Jiaotong University, Xi'an
+Beijing Institute of Technology, Beijing
 </div>
 </div>
+
+# 💻 Internships
+- *2022.08 - now*, Research Intern, NExT Research Center, Singapore.
+- *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
+- *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
