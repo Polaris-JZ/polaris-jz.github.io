@@ -43,6 +43,8 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 - *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
 - *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
 
+# 📖 Educations
+
 <div class='school-box'>
 <div><img src='images/NUS_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
