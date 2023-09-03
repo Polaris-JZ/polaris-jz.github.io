@@ -34,6 +34,11 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
   **CIKM 2023** \| [Paper](paper/2023_CIKM_PDRO.pdf) \| [Code](https://github.com/Polaris-JZ/PDRO)
 
 
+# 💻 Internships
+- *2022.08 - now*, Research Intern, **NExT Research Center**, Singapore.
+- *2023.01 - 2023.06*, Machine Learning Intern, **Phillips**, Singapore.
+- *2022.03 - 2022.07*, Computer Vision Intern, **Sensetime**, China.
+
 # 📖 Educations
 
   <div class='school-box'>
@@ -68,8 +73,3 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
   Beijing Institute of Technology, Beijing
   </div>
   </div>
-
-# 💻 Internships
-- *2022.08 - now*, Research Intern, NExT Research Center, Singapore.
-- *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
-- *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
