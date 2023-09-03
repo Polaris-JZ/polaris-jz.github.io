@@ -21,7 +21,7 @@ redirect_from:
 Hi! This is Jujia Zhao, a master student from **National University of Singapore (NUS)**. My major is Industry 4.0 (Deep Learning for Industry). I graduated from **Beijing Institute of Technology** in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management (CIKM). 
+- *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. 
 
 # 📝 Publications 
 
@@ -37,7 +37,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='images/NUS_logo.png' alt="sym" width="80"></div>
+<div><img src='images/NUS_logo.jpeg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2022.08 - now
 
@@ -50,7 +50,7 @@ National University of Singapore, Singapore
 <div class='school-box'>
 <div><img src='images/PolyU_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021.08 - 2022.01, Master
+2021.08 - 2022.01
 
 Exchange student in Department of Electronic and Information Engineering
 
