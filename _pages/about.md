@@ -15,10 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a master student from National University of Singapore (NUS). My major is Industry 4.0 (Deep Learning for Industry). I graduated from Beijing Institute of Technology in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
+Hi! This is Jujia Zhao, a master student from **National University of Singapore (NUS)**. My major is Industry 4.0 (Deep Learning for Industry). I graduated from **Beijing Institute of Technology** in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
+# 🔥 News
+- *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management (CIKM). 
 
 # 📝 Publications 
 
@@ -39,3 +42,36 @@ Hi! This is Jujia Zhao, a master student from National University of Singapore (
 - *2022.08 - now*, Research Intern, NExT Research Center, Singapore.
 - *2023.01 - 2023.06*, Machine Learning Intern, Phillips, Singapore.
 - *2022.03 - 2022.07*, Computer Vision Intern, Sensetime, China.
+
+<div class='school-box'>
+<div><img src='images/NUS_logo.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2022.08 - now, PhD student
+
+School of Artifical Intelligence
+
+Peking University, Beijing
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/PolyU_logo.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2019.09 - 2022.06, Master
+
+Institute of Computing Technology, Chinese Academy of Sciences
+
+University of Chinese Academy of Sciences, Beijing
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/BIT_logo.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2015.09 - 2019.06, Undergraduate
+
+Software College
+
+Xi'an Jiaotong University, Xi'an
+</div>
+</div>
