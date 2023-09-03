@@ -25,7 +25,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
 # 📝 Publications 
 
-- Popularity-aware Distributionally Robust Optimization for Recommendation System
+- **Popularity-aware Distributionally Robust Optimization for Recommendation System**
 
   TLDR: *We propose a novel Popularity-aware Distributionally Robust Optimization (PDRO) framework which emphasizes the optimization of sparse users/items, while incorporating item popularity to preserve the performance of popular items in recommendation system.*
 
@@ -48,7 +48,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
   Master of Science
 
-  National University of Singapore, Singapore
+  **National University of Singapore**, Singapore
   </div>
   </div>
 
@@ -59,7 +59,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
   Exchange student in Department of Electronic and Information Engineering
 
-  The Hong Kong Polytechnic University, Hong Kong
+  **The Hong Kong Polytechnic University**, Hong Kong
   </div>
   </div>
 
@@ -70,6 +70,6 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
   Bachelor of Automation
 
-  Beijing Institute of Technology, Beijing
+  **Beijing Institute of Technology**, Beijing
   </div>
   </div>
