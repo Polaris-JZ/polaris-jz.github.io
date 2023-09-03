@@ -55,7 +55,7 @@ Peking University, Beijing
 </div>
 
 <div class='school-box'>
-<div><img src='images/PolyU_logo.jpg' alt="sym" width="80"></div>
+<div><img src='images/PolyU_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2019.09 - 2022.06, Master
 
