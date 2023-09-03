@@ -36,38 +36,38 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
 # 📖 Educations
 
-<div class='school-box'>
-<div><img src='images/NUS_logo.jpeg' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-2022.08 - now
+  <div class='school-box'>
+  <div><img src='images/NUS_logo.jpeg' alt="sym" width="80"></div>
+  <div class='school-box-text' markdown="1">
+  2022.08 - now
 
-Master of Science
+  Master of Science
 
-National University of Singapore, Singapore
-</div>
-</div>
+  National University of Singapore, Singapore
+  </div>
+  </div>
 
-<div class='school-box'>
-<div><img src='images/PolyU_logo.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-2021.08 - 2022.01
+  <div class='school-box'>
+  <div><img src='images/PolyU_logo.png' alt="sym" width="80"></div>
+  <div class='school-box-text' markdown="1">
+  2021.08 - 2022.01
 
-Exchange student in Department of Electronic and Information Engineering
+  Exchange student in Department of Electronic and Information Engineering
 
-The Hong Kong Polytechnic University, Hong Kong
-</div>
-</div>
+  The Hong Kong Polytechnic University, Hong Kong
+  </div>
+  </div>
 
-<div class='school-box'>
-<div><img src='images/BIT_logo.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-2018.08 - 2022.06
+  <div class='school-box'>
+  <div><img src='images/BIT_logo.png' alt="sym" width="80"></div>
+  <div class='school-box-text' markdown="1">
+  2018.08 - 2022.06
 
-Bachelor of Automation
+  Bachelor of Automation
 
-Beijing Institute of Technology, Beijing
-</div>
-</div>
+  Beijing Institute of Technology, Beijing
+  </div>
+  </div>
 
 # 💻 Internships
 - *2022.08 - now*, Research Intern, NExT Research Center, Singapore.
