@@ -31,7 +31,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
   **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-  **CIKM 2023** \| Paper \| [Code](https://github.com/Polaris-JZ/PDRO)
+  **CIKM 2023** \| [Paper](paper/2023_CIKM_PDRO.pdf) \| [Code](https://github.com/Polaris-JZ/PDRO)
 
 
 # 📖 Educations
