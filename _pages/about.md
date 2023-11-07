@@ -36,7 +36,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
 # 💻 Internships
 - *2022.08 - now*, Research Intern, **NExT Research Center**, Singapore.
-- *2023.01 - 2023.06*, Machine Learning Intern, **Phillips**, Singapore.
+- *2023.01 - 2023.06*, Machine Learning Intern, **Philips**, Singapore.
 - *2022.03 - 2022.07*, Computer Vision Intern, **Sensetime**, Beijing.
 
 # 📖 Educations
