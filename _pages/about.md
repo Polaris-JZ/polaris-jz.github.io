@@ -21,13 +21,18 @@ redirect_from:
 Hi! This is Jujia Zhao, a master student from **National University of Singapore (NUS)**. My major is Industry 4.0 (Deep Learning for Industry). I graduated from **Beijing Institute of Technology** in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our paper ''Temporally and Distributionally Robust Optimization for Cold-start Recommendation'' is accepted by The Annual AAAI Conference on Artificial Intelligence **(AAAI 2024)**. 
 - *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. 
 
 # 📝 Publications 
 
-- **Popularity-aware Distributionally Robust Optimization for Recommendation System**
+- **Temporally and Distributionally Robust Optimization for Cold-start Recommendation**
 
-  TLDR: *We propose a novel Popularity-aware Distributionally Robust Optimization (PDRO) framework which emphasizes the optimization of sparse users/items, while incorporating item popularity to preserve the performance of popular items in recommendation system.*
+  Xinyu Lin, [Wenjie Wang](https://wenjiewwj.github.io/), **Jujia Zhao**, Yongqi Li, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
+
+  **AAAI 2024**
+
+- **Popularity-aware Distributionally Robust Optimization for Recommendation System**
 
   **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
