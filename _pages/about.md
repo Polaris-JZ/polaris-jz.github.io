@@ -37,7 +37,7 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
   Xinyu Lin, [Wenjie Wang](https://wenjiewwj.github.io/), **Jujia Zhao**, Yongqi Li, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-  **AAAI 2024**
+  **AAAI 2024** \| [Paper](https://arxiv.org/abs/2312.09901) \| [Code](https://github.com/Linxyhaha/TDRO)
 
 - **Popularity-aware Distributionally Robust Optimization for Recommendation System**
 
