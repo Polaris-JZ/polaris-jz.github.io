@@ -86,5 +86,5 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
   </div>
   </div>
 
-# 💻 Professional Services
+# 🔭 Professional Services
 - Invited Reviewer for KDD 2024.
