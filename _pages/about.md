@@ -21,10 +21,17 @@ redirect_from:
 Hi! This is Jujia Zhao, a master student from **National University of Singapore (NUS)**. My major is Industry 4.0 (Deep Learning for Industry). I graduated from **Beijing Institute of Technology** in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 Our paper ''Denoising Diffusion Recommender Model'' is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2024)**. 
 - *2023.12*: &nbsp;🎉🎉 Our paper ''Temporally and Distributionally Robust Optimization for Cold-start Recommendation'' is accepted by The Annual AAAI Conference on Artificial Intelligence **(AAAI 2024)**. 
 - *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. 
 
 # 📝 Publications 
+
+- **Denoising Diffusion Recommender Model**
+
+  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Yiyan Xu, Teng Sun, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
+
+  **SIGIR 2024**
 
 - **Temporally and Distributionally Robust Optimization for Cold-start Recommendation**
 
