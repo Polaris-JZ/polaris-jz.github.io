@@ -18,7 +18,7 @@ redirect_from:
 # 💡 About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a master student from **National University of Singapore (NUS)**. My major is Industry 4.0 (Deep Learning for Industry). I graduated from **Beijing Institute of Technology** in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
+Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 Our paper ''Denoising Diffusion Recommender Model'' is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2024)**. 
@@ -47,15 +47,26 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
 
 # 💻 Internships
-- *2022.08 - now*, Research Intern, **NExT Research Center**, Singapore.
+- *2022.08 - 2024.06*, Research Intern, **NExT Research Center**, Singapore.
 - *2023.01 - 2023.06*, Machine Learning Intern, **Philips**, Singapore.
 
 # 📖 Educations
 
   <div class='school-box'>
+  <div><img src='images/Leiden_logo.jpeg' alt="sym" width="80"></div>
+  <div class='school-box-text' markdown="1">
+  2024.07 - *Present*
+
+  PhD Student
+
+  **National University of Singapore**, Singapore
+  </div>
+  </div>
+
+  <div class='school-box'>
   <div><img src='images/NUS_logo.jpeg' alt="sym" width="80"></div>
   <div class='school-box-text' markdown="1">
-  2022.08 - now
+  2022.08 - 2024.06
 
   Master of Science
 
