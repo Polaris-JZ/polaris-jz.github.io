@@ -59,7 +59,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
   PhD Student
 
-  **National University of Singapore**, Singapore
+  **Leiden University**, The Netherlands
   </div>
   </div>
 
@@ -70,7 +70,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
   Master of Science
 
-  **Leiden University**, The Netherlands
+  **National University of Singapore**, Singapore
   </div>
   </div>
 
