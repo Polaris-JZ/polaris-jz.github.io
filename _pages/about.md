@@ -29,25 +29,25 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
 - **Denoising Diffusion Recommender Model**
 
-  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Yiyan Xu, Teng Sun, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
+  **Jujia Zhao**, Wenjie Wang, Yiyan Xu, Teng Sun, Fuli Feng and Tat-Seng Chua
 
-  **SIGIR 2024**
+  **SIGIR 2024** \| [Paper](https://arxiv.org/abs/2401.06982) \| [Code](https://github.com/Polaris-JZ/DDRM)
 
 - **Temporally and Distributionally Robust Optimization for Cold-start Recommendation**
 
-  Xinyu Lin, [Wenjie Wang](https://wenjiewwj.github.io/), **Jujia Zhao**, Yongqi Li, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
+  Xinyu Lin, Wenjie Wang, **Jujia Zhao**, Yongqi Li, Fuli Feng and Tat-Seng Chua
 
   **AAAI 2024** \| [Paper](https://arxiv.org/abs/2312.09901) \| [Code](https://github.com/Linxyhaha/TDRO)
 
 - **Popularity-aware Distributionally Robust Optimization for Recommendation System**
 
-  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and [Tat-Seng Chua](https://www.chuatatseng.com/)
+  **Jujia Zhao**, Wenjie Wang, Xinyu Lin, Leigang Qu, Jizhi Zhang and Tat-Seng Chua
 
   **CIKM 2023** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615492) \| [Code](https://github.com/Polaris-JZ/PDRO)
 
 
 # 💻 Internships
-- *2022.08 - 2024.06*, Research Intern, **NExT Research Center**, Singapore.
+- *2022.08 - 2024.06*, Research Intern, **NExT Research Center**(Supervisor: [Dr. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/)), Singapore.
 - *2023.01 - 2023.06*, Machine Learning Intern, **Philips**, Singapore.
 
 # 📖 Educations
