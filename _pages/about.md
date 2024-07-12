@@ -70,7 +70,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
   Master of Science
 
-  **National University of Singapore**, Singapore
+  **Leiden University**, The Netherlands
   </div>
   </div>
 
