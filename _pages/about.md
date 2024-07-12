@@ -47,7 +47,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
 
 # 💻 Internships
-- *2022.08 - 2024.06*, Research Intern, **NExT Research Center**(Supervisor: [Dr. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/)), Singapore.
+- *2022.08 - 2024.06*, Research Intern, **NExT Research Center** (Supervisor: [Dr. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/)), Singapore.
 - *2023.01 - 2023.06*, Machine Learning Intern, **Philips**, Singapore.
 
 # 📖 Educations
