@@ -18,7 +18,7 @@ redirect_from:
 # 💡 About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a master student from **National University of Singapore (NUS)**. My major is Industry 4.0 (Deep Learning for Industry). I graduated from **Beijing Institute of Technology** in China with a bachelor's degree in Automation. Now, I am a research intern at [NExT Research Center](https://www.nextcenter.org/) in NUS, advised by [Dr. Wenjie Wang](https://wenjiewwj.github.io/). My research focuses on artificial intelligence, information retrieval and recommendation.
+Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 Our paper ''Denoising Diffusion Recommender Model'' is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2024)**. 
@@ -29,33 +29,44 @@ Hi! This is Jujia Zhao, a master student from **National University of Singapore
 
 - **Denoising Diffusion Recommender Model**
 
-  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Yiyan Xu, Teng Sun, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
+  **Jujia Zhao**, Wenjie Wang, Yiyan Xu, Teng Sun, Fuli Feng and Tat-Seng Chua
 
-  **SIGIR 2024**
+  **SIGIR 2024** \| [Paper](https://arxiv.org/abs/2401.06982) \| [Code](https://github.com/Polaris-JZ/DDRM)
 
 - **Temporally and Distributionally Robust Optimization for Cold-start Recommendation**
 
-  Xinyu Lin, [Wenjie Wang](https://wenjiewwj.github.io/), **Jujia Zhao**, Yongqi Li, Fuli Feng and [Tat-Seng Chua](https://www.chuatatseng.com/)
+  Xinyu Lin, Wenjie Wang, **Jujia Zhao**, Yongqi Li, Fuli Feng and Tat-Seng Chua
 
   **AAAI 2024** \| [Paper](https://arxiv.org/abs/2312.09901) \| [Code](https://github.com/Linxyhaha/TDRO)
 
 - **Popularity-aware Distributionally Robust Optimization for Recommendation System**
 
-  **Jujia Zhao**, [Wenjie Wang](https://wenjiewwj.github.io/), Xinyu Lin, Leigang Qu, Jizhi Zhang and [Tat-Seng Chua](https://www.chuatatseng.com/)
+  **Jujia Zhao**, Wenjie Wang, Xinyu Lin, Leigang Qu, Jizhi Zhang and Tat-Seng Chua
 
   **CIKM 2023** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615492) \| [Code](https://github.com/Polaris-JZ/PDRO)
 
 
 # 💻 Internships
-- *2022.08 - now*, Research Intern, **NExT Research Center**, Singapore.
+- *2022.08 - 2024.06*, Research Intern, **NExT Research Center** (Supervisor: [Dr. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/)), Singapore.
 - *2023.01 - 2023.06*, Machine Learning Intern, **Philips**, Singapore.
 
 # 📖 Educations
 
   <div class='school-box'>
+  <div><img src='images/Leiden_logo.jpeg' alt="sym" width="80"></div>
+  <div class='school-box-text' markdown="1">
+  2024.07 - *Present*
+
+  PhD Student
+
+  **Leiden University**, The Netherlands
+  </div>
+  </div>
+
+  <div class='school-box'>
   <div><img src='images/NUS_logo.jpeg' alt="sym" width="80"></div>
   <div class='school-box-text' markdown="1">
-  2022.08 - now
+  2022.08 - 2024.06
 
   Master of Science
 
