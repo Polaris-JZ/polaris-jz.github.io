@@ -30,7 +30,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
 - **A Federated Framework for LLM-based Recommendation**
 
-  **Jujia Zhao**, Wenjie Wang, Chen Xu, Zhaochun Ren, See-Kiong Ng and Tat-Seng Chua
+  **Jujia Zhao**, Wenjie Wang, Chen Xu, See-Kiong Ng and Tat-Seng Chua
 
   **NAACL 2025 findigns** \| [Paper](https://arxiv.org/abs/2402.09959) 
 
