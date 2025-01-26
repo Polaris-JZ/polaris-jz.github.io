@@ -21,11 +21,18 @@ redirect_from:
 Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Our paper ''LLM-based federated recommendation'' is accepted by Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics **(NAACL 2025 Findings)**. 
 - *2024.03*: &nbsp;🎉🎉 Our paper ''Denoising Diffusion Recommender Model'' is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2024)**. 
 - *2023.12*: &nbsp;🎉🎉 Our paper ''Temporally and Distributionally Robust Optimization for Cold-start Recommendation'' is accepted by The Annual AAAI Conference on Artificial Intelligence **(AAAI 2024)**. 
 - *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. 
 
 # 📝 Publications 
+
+- **A Federated Framework for LLM-based Recommendation**
+
+  **Jujia Zhao**, Wenjie Wang, Chen Xu, Zhaochun Ren, See-Kiong Ng and Tat-Seng Chua
+
+  **NAACL 2025 findigns** \| [Paper](https://arxiv.org/abs/2402.09959) 
 
 - **Denoising Diffusion Recommender Model**
 
