@@ -32,7 +32,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
   **Jujia Zhao**, Wenjie Wang, Chen Xu, See-Kiong Ng and Tat-Seng Chua
 
-  **NAACL 2025 findigns** \| [Paper](https://arxiv.org/abs/2402.09959) 
+  **NAACL 2025 findings** \| [Paper](https://arxiv.org/abs/2402.09959) 
 
 - **Denoising Diffusion Recommender Model**
 
