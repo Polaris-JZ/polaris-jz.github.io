@@ -32,7 +32,7 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
   **Jujia Zhao**, Wenjie Wang, Chen Xu, See-Kiong Ng and Tat-Seng Chua
 
-  **NAACL 2025 findings** \| [Paper](https://arxiv.org/abs/2402.09959) 
+  **NAACL 2025 findings** \| [Paper](https://arxiv.org/abs/2402.09959) \| [Code](https://github.com/Polaris-JZ/FELLRec)
 
 - **Denoising Diffusion Recommender Model**
 
@@ -95,4 +95,6 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
   </div>
 
 # 🔭 Professional Services
-- Invited Reviewer for KDD 2024.
+- Invited Journal Reviewer for TOIS, TKDE, TIST
+-	Program Committee Member of KDD'24, SIGIR'25
+
