@@ -29,6 +29,18 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
 # 📝 Publications 
 
+- **Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems**
+
+  **Jujia Zhao**, Yumeng Wang, Zhaochun Ren and Suzan Verberne
+
+  **RecSys 2025** 
+
+- **Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**
+
+  **Jujia Zhao**, Wenjie Wang, Chen Xu, Xiuying Chen, Zhaochun Ren and Suzan Verberne
+
+  **arXiv** 
+
 - **A Federated Framework for LLM-based Recommendation**
 
   **Jujia Zhao**, Wenjie Wang, Chen Xu, See-Kiong Ng and Tat-Seng Chua
