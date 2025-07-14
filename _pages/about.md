@@ -34,13 +34,13 @@ Hi! This is Jujia Zhao, a first year PhD student in the Leiden Institute of Adva
 
   **Jujia Zhao**, Yumeng Wang, Zhaochun Ren and Suzan Verberne
 
-  **RecSys 2025** 
+  **RecSys 2025** \| Paper \| Code
 
 - **Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**
 
   **Jujia Zhao**, Wenjie Wang, Chen Xu, Xiuying Chen, Zhaochun Ren and Suzan Verberne
 
-  **arXiv** 
+  **arXiv** \| Paper \| Code
 
 - **A Federated Framework for LLM-based Recommendation**
 
