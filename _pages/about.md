@@ -18,7 +18,7 @@ redirect_from:
 # 💡 About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a second year PhD student in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on artificial intelligence, information retrieval and recommendation.
+Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on artificial intelligence, information retrieval and recommendation.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper ''Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems'' is accepted by 19th ACM Conference on Recommender Systems **(RecSys 2025)**. 
@@ -83,7 +83,7 @@ Hi! This is Jujia Zhao, a second year PhD student in the Leiden Institute of Adv
   <div class='school-box-text' markdown="1">
   2024.07 - *Present*
 
-  PhD Student
+  PhD Candidate
 
   **Leiden University**, The Netherlands
   </div>
