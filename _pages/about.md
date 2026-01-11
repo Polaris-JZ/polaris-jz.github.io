@@ -34,7 +34,7 @@ Hi! This is Jujia Zhao, a second year PhD student in the Leiden Institute of Adv
 
   **Jujia Zhao**, Yumeng Wang, Zhaochun Ren and Suzan Verberne
 
-  **RecSys 2025** \| Paper \| Code
+  **RecSys 2025** \| [Paper](https://dl.acm.org/doi/10.1145/3705328.3748152) \| [Code](https://github.com/Polaris-JZ/CRS)
 
 - **Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**
 
