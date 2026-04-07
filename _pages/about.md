@@ -21,6 +21,8 @@ redirect_from:
 Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on LLM-based recommendation, unifying search and recommendation, LLM evaluation.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Our paper ''ReportLogic: Evaluating Logical Quality in Deep Research Reports'' is accepted by The 64th Annual Meeting of the Association for Computational Linguistics **(ACL 2026)**. 
+- *2025.04*: &nbsp;🎉🎉 Our paper ''Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning'' is accepted by ACM SIGIR Conference on Research and Development in Information **(SIGIR 2026)**. 
 - *2025.07*: &nbsp;🎉🎉 Our paper ''Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems'' is accepted by 19th ACM Conference on Recommender Systems **(RecSys 2025)**. 
 - *2025.04*: &nbsp;🎉🎉 Our paper ''Understanding Accuracy-Fairness Trade-offs in Re-ranking through Elasticity in Economics'' is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025)**. Congrats to Chen!
 - *2025.01*: &nbsp;🎉🎉 Our paper ''LLM-based federated recommendation'' is accepted by Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics **(NAACL 2025 Findings)**. 
@@ -29,6 +31,18 @@ Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of A
 - *2023.08*: &nbsp;🎉🎉 Our paper ''Popularity-aware Distributionally Robust Optimization for Recommendation System'' is accepted by 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. 
 
 # 📝 Publications 
+
+- **ReportLogic: Evaluating Logical Quality in Deep Research Reports**
+
+  **Jujia Zhao**, Zhaoxin Huan, Zihan Wang, Xiaolu Zhang, Jun Zhou, Suzan Verberne, and Zhaochun Ren
+
+  **ACL 2026** \| [Paper](https://arxiv.org/abs/2602.18446) \| Code
+
+- **Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning**
+
+  **Jujia Zhao**, Zihan Wang, Shuaiqun Pan, Suzan Verberne, and Zhaochun Ren
+
+  **SIGIR 2026** \| [Paper](https://arxiv.org/abs/2601.09496) \| Code
 
 - **Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems**
 
@@ -115,5 +129,5 @@ Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of A
 
 # 🔭 Professional Services
 - Invited Journal Reviewer for TOIS, TKDE, TIST
--	Program Committee Member of KDD'24, SIGIR'25
+-	Program Committee Member of KDD'24, SIGIR'25, SIGIR'26
 
