@@ -87,8 +87,8 @@ Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of A
   **AAAI 2024** \| [Paper](https://arxiv.org/abs/2312.09901) \| [Code](https://github.com/Linxyhaha/TDRO)
 
 # 💻 Internships
+- *2025.07 - 2025.12*, Research Intern, **Ant Group** (Mentor: [Zhaoxin Huan](https://openreview.net/profile?id=%7EZhaoxin_Huan1) and [Xiaolu Zang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en)), Hangzhou, China.
 - *2022.08 - 2024.06*, Research Intern, **NExT Research Center** (Supervisor: [Dr. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/)), Singapore.
-- *2023.01 - 2023.06*, Machine Learning Intern, **Philips**, Singapore.
 
 # 📖 Educations
 
