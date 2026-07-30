@@ -18,7 +18,7 @@ redirect_from:
 # 💡 About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on LLM-based recommendation, unifying search and recommendation, LLM evaluation.
+Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Zhaochun Ren](https://renzhaochun.github.io/) and [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on LLM-based recommendation, unifying search and recommendation, LLM evaluation.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our paper ''ReportLogic: Evaluating Logical Quality in Deep Research Reports'' is accepted by The 64th Annual Meeting of the Association for Computational Linguistics **(ACL 2026)**. 
