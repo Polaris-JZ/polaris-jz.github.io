@@ -27,7 +27,7 @@ Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of A
 - *2025.07*: &nbsp;🎉🎉 Our paper ''Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems'' is accepted by 19th ACM Conference on Recommender Systems **(RecSys 2025)**. 
 - *2025.01*: &nbsp;🎉🎉 Our paper ''LLM-based federated recommendation'' is accepted by Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics **(NAACL 2025 Findings)**. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 - **ReportLogic: Evaluating Logical Quality in Deep Research Reports**
 
@@ -71,17 +71,6 @@ Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of A
 
   **CIKM 2023** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615492) \| [Code](https://github.com/Polaris-JZ/PDRO)
 
-- **Understanding Accuracy-Fairness Trade-offs in Re-ranking through Elasticity in Economics**
-
-  Chen Xu, **Jujia Zhao**, Wenjie Wang, Liang Pang, Jun Xu, Tat-Seng Chua and Maarten de Rijke
-
-  **SIGIR 2025** \| [Paper](https://arxiv.org/abs/2504.14991) \| [Code](https://github.com/XuChen0427/ElasticRank)
-
-- **Temporally and Distributionally Robust Optimization for Cold-start Recommendation**
-
-  Xinyu Lin, Wenjie Wang, **Jujia Zhao**, Yongqi Li, Fuli Feng and Tat-Seng Chua
-
-  **AAAI 2024** \| [Paper](https://arxiv.org/abs/2312.09901) \| [Code](https://github.com/Linxyhaha/TDRO)
 
 # 💻 Internships
 - *2025.07 - 2025.12*, Research Intern, **Ant Group** (Mentor: [Zhaoxin Huan](https://openreview.net/profile?id=%7EZhaoxin_Huan1) and [Dr. Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en)), Hangzhou, China.
