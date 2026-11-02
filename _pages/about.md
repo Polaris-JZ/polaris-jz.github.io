@@ -18,7 +18,7 @@ redirect_from:
 # 💡 About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Jujia Zhao, a second year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Zhaochun Ren](https://renzhaochun.github.io/) and [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on LLM-based recommendation, unifying search and recommendation, LLM evaluation.
+Hi! This is Jujia Zhao, a thrid year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Zhaochun Ren](https://renzhaochun.github.io/) and [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on agentic recommendation, unifying search and recommendation, LLM evaluation.
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Our paper ''Unifying Search and Recommendation with Dual-View Representation Learning in a Generative Paradigm'' is accepted by Transactions on Information Systems **(TOIS 2026)**. 
