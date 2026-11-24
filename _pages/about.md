@@ -1,119 +1,25 @@
 ---
+layout: research-home
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+title: Jujia Zhao
+redirect_from:
   - /about/
   - /about.html
 ---
+<header class="hero" id="about"><div><div class="eyebrow">Ph.D. candidate · Leiden University</div><h1>Jujia Zhao</h1><p>I am a Ph.D. candidate at the <a href="https://www.universiteitleiden.nl/en/science/computer-science">Leiden Institute of Advanced Computer Science (LIACS)</a>, supervised by <a href="https://renzhaochun.github.io/">Zhaochun Ren</a> and <a href="https://liacs.leidenuniv.nl/~verbernes/">Suzan Verberne</a>. Previously, I received my master's degree from the National University of Singapore, where I was supervised by <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a> and <a href="https://wenjiewwj.github.io/">Wenjie Wang</a> at the NExT++ Research Center.</p><p>My research focuses on generative and agentic recommendation, as well as LLM evaluation for open-ended tasks.</p><div class="contact"><a href="https://scholar.google.com/citations?user=h88M7FIAAAAJ">Google Scholar ↗</a><a href="https://github.com/Polaris-JZ">GitHub ↗</a><a href="mailto:zhao.jujia.0913@gmail.com">Email</a></div></div><img class="portrait" src="{{ '/images/photo.jpeg' | relative_url }}" alt="Jujia Zhao" width="220" height="260"></header>
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section id="research"><div class="section-head"><span>01</span><h2>Research</h2></div><div class="areas"><article><h3>Generative Recommendation</h3><p>Unifying search and recommendation, cross-task knowledge transfer, and personalized adaptation.</p><a href="#pub-gems">GEMS</a> · <a href="#pub-gensr">GenSR</a> · <a href="#pub-fellrec">FELLRec</a></article><article><h3>Agentic Recommendation</h3><p>User modeling and simulation, conversational recommendation, and adaptive intent elicitation.</p><a href="#pub-userarena">UserArena</a> · <a href="#pub-mmk">MMK</a></article><article><h3>LLM Evaluation for Open-Ended Tasks</h3><p>Context-aware rubrics and reliable evaluators under ambiguous ground truth, including long-form report assessment and user intent evaluation.</p><a href="#pub-reportlogic">ReportLogic</a></article></div></section>
+<section id="featured"><div class="section-head"><span>02</span><h2>Featured research</h2></div><div class="features"><article class="feature"><span class="venue">Preprint</span><h3><a href="#pub-userarena">UserArena</a></h3><a class="framework" href="/images/frameworks/userarena.png" target="_blank" rel="noopener" aria-label="View userarena framework full size"><img src="/images/frameworks/userarena.png" alt="userarena framework" loading="lazy"></a><p class="feature-title">Modeling realistic shopping behavior</p><p>A benchmark and on-policy trajectory distillation method for long-horizon user simulation.</p><div class="paper-links"><a href="https://arxiv.org/abs/2610.30932">Paper ↗</a><a href="https://github.com/RecGPT-Team/UserArena">Code ↗</a></div></article><article class="feature"><span class="venue">ACL 2026</span><h3><a href="#pub-reportlogic">ReportLogic</a></h3><a class="framework" href="/images/frameworks/reportlogic.png" target="_blank" rel="noopener" aria-label="View reportlogic framework full size"><img src="/images/frameworks/reportlogic.png" alt="reportlogic framework" loading="lazy"></a><p class="feature-title">Evaluating complex generated reports</p><p>Fine-grained, context-aware assessment of logical quality in Deep Research reports.</p><div class="paper-links"><a href="https://arxiv.org/abs/2602.18446">Paper ↗</a><a href="https://github.com/Polaris-JZ/ReportLogic">Code ↗</a></div></article><article class="feature"><span class="venue">SIGIR 2026</span><h3><a href="#pub-gems">GEMS</a></h3><a class="framework" href="/images/frameworks/gems.png" target="_blank" rel="noopener" aria-label="View gems framework full size"><img src="/images/frameworks/gems.png" alt="gems framework" loading="lazy"></a><p class="feature-title">Learning across search and recommendation</p><p>Gradient multi-subspace tuning separates shared and task-specific optimization signals.</p><div class="paper-links"><a href="https://arxiv.org/abs/2601.09496">Paper ↗</a><a href="https://github.com/Polaris-JZ/GEMS">Code ↗</a></div></article><article class="feature"><span class="venue">TOIS 2026</span><h3><a href="#pub-gensr">GenSR</a></h3><a class="framework" href="/images/frameworks/gensr.png" target="_blank" rel="noopener" aria-label="View gensr framework full size"><img src="/images/frameworks/gensr.png" alt="gensr framework" loading="lazy"></a><p class="feature-title">A unified generative paradigm</p><p>Dual-view representation learning connects search intent and recommendation preferences.</p><div class="paper-links"><a href="https://arxiv.org/abs/2504.06714">Paper ↗</a><a href="https://github.com/Polaris-JZ/GenSR">Code ↗</a></div></article></div></section>
+<section id="publications"><div class="section-head"><span>03</span><h2>Selected publications</h2></div><div class="filter" role="group" aria-label="Filter publications"><button type="button" aria-pressed="true" data-filter="all">All</button><button type="button" aria-pressed="false" data-filter="Generative recommendation">Generative recommendation</button><button type="button" aria-pressed="false" data-filter="Agentic recommendation">Agentic recommendation</button><button type="button" aria-pressed="false" data-filter="LLM evaluation">LLM evaluation</button><button type="button" aria-pressed="false" data-filter="Recommendation foundations">Recommendation foundations</button></div><div class="publications"><article class="publication" id="pub-gems" data-topic="Generative recommendation"><div class="venue">SIGIR 2026</div><div><h3><a href="https://arxiv.org/abs/2601.09496">Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Zihan Wang, Shuaiqun Pan, Suzan Verberne, and Zhaochun Ren</p><div class="paper-links"><a href="https://arxiv.org/abs/2601.09496">Paper ↗</a><a href="https://github.com/Polaris-JZ/GEMS">Code ↗</a></div></div></article>
+<article class="publication" id="pub-gensr" data-topic="Generative recommendation"><div class="venue">TOIS 2026</div><div><h3><a href="https://arxiv.org/abs/2504.06714">Unifying Search and Recommendation with Dual-View Representation Learning in a Generative Paradigm</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Wenjie Wang, Chen Xu, Xiuying Chen, Zhaochun Ren, and Suzan Verberne</p><div class="paper-links"><a href="https://arxiv.org/abs/2504.06714">Paper ↗</a><a href="https://github.com/Polaris-JZ/GenSR">Code ↗</a></div></div></article>
+<article class="publication" id="pub-cold-start" data-topic="Generative recommendation"><div class="venue">SIGIR-AP 2026</div><div><h3><a href="https://arxiv.org/abs/2603.29845">A Reproducibility Study of Cold-Start Recommendation in Generative Recommenders</a></h3><p class="authors">Zhen Zhang*, <strong>Jujia Zhao</strong>*, Xinyu Ma, Xin Xin, Maarten de Rijke, and Zhaochun Ren</p><div class="paper-links"><a href="https://arxiv.org/abs/2603.29845">Paper ↗</a><a href="https://github.com/zhangzhen-research/ColdGenrec">Code ↗</a></div></div></article>
+<article class="publication" id="pub-reportlogic" data-topic="LLM evaluation"><div class="venue">ACL 2026</div><div><h3><a href="https://arxiv.org/abs/2602.18446">ReportLogic: Evaluating Logical Quality in Deep Research Reports</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Zhaoxin Huan, Zihan Wang, Xiaolu Zhang, Jun Zhou, Suzan Verberne, and Zhaochun Ren</p><div class="paper-links"><a href="https://arxiv.org/abs/2602.18446">Paper ↗</a><a href="https://github.com/Polaris-JZ/ReportLogic">Code ↗</a></div></div></article>
+<article class="publication" id="pub-mmk" data-topic="Agentic recommendation"><div class="venue">RecSys 2025</div><div><h3><a href="https://dl.acm.org/doi/10.1145/3705328.3748152">Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Yumeng Wang, Zhaochun Ren, and Suzan Verberne</p><div class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3705328.3748152">Paper ↗</a><a href="https://github.com/Polaris-JZ/CRS">Code ↗</a></div></div></article>
+<article class="publication" id="pub-fellrec" data-topic="Generative recommendation"><div class="venue">Findings of NAACL 2025</div><div><h3><a href="https://arxiv.org/abs/2402.09959">A Federated Framework for LLM-based Recommendation</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Wenjie Wang, Chen Xu, See-Kiong Ng, and Tat-Seng Chua</p><div class="paper-links"><a href="https://arxiv.org/abs/2402.09959">Paper ↗</a><a href="https://github.com/Polaris-JZ/FELLRec">Code ↗</a></div></div></article>
+<article class="publication" id="pub-ddrm" data-topic="Recommendation foundations"><div class="venue">SIGIR 2024</div><div><h3><a href="https://arxiv.org/abs/2401.06982">Denoising Diffusion Recommender Model</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Wenjie Wang, Yiyan Xu, Teng Sun, Fuli Feng, and Tat-Seng Chua</p><div class="paper-links"><a href="https://arxiv.org/abs/2401.06982">Paper ↗</a><a href="https://github.com/Polaris-JZ/DDRM">Code ↗</a></div></div></article>
+<article class="publication" id="pub-pdro" data-topic="Recommendation foundations"><div class="venue">CIKM 2023</div><div><h3><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615492">Popularity-aware Distributionally Robust Optimization for Recommendation System</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Wenjie Wang, Xinyu Lin, Leigang Qu, Jizhi Zhang, and Tat-Seng Chua</p><div class="paper-links"><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615492">Paper ↗</a><a href="https://github.com/Polaris-JZ/PDRO">Code ↗</a></div></div></article>
+<article class="publication" id="pub-userarena" data-topic="Agentic recommendation"><div class="venue">Preprint</div><div><h3><a href="https://arxiv.org/abs/2610.30932">UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents</a></h3><p class="authors"><strong>Jujia Zhao</strong>, Jiakai Tang, Jing Yu, Wen Chen, Jian Wu, Han Zhu, Fei Sun, Suzan Verberne, and Zhaochun Ren</p><div class="paper-links"><a href="https://arxiv.org/abs/2610.30932">Paper ↗</a><a href="https://github.com/RecGPT-Team/UserArena">Code ↗</a></div></div></article></div><p class="muted small">* Equal contribution.</p></section>
+<section id="experience"><div class="section-head"><span>04</span><h2>Industry experience</h2></div><article class="experience"><div><h3>Alibaba Group <span class="tag">T-Star Talent Program</span></h3><p class="muted">Research Intern · Taobao &amp; Tmall Group</p></div><time>Sep 2026 – Present</time></article><article class="experience"><div><h3>Ant Group</h3><p class="muted">Research Intern · Ling Foundation Model Team</p></div><time>Jul – Dec 2025</time></article></section>
 
-# 💡 About Me
-<span class='anchor' id='about-me'></span>
-
-Hi! This is Jujia Zhao, a thrid year PhD candidate in the Leiden Institute of Advanced Computer Science (LIACS) from **Leiden University**, supervised by [Zhaochun Ren](https://renzhaochun.github.io/) and [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/). My research focuses on agentic recommendation, unifying search and recommendation, LLM evaluation.
-
-# 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper ''Unifying Search and Recommendation with Dual-View Representation Learning in a Generative Paradigm'' is accepted by Transactions on Information Systems **(TOIS 2026)**. 
-- *2026.04*: &nbsp;🎉🎉 Our paper ''ReportLogic: Evaluating Logical Quality in Deep Research Reports'' is accepted by The 64th Annual Meeting of the Association for Computational Linguistics **(ACL 2026)**. 
-- *2026.04*: &nbsp;🎉🎉 Our paper ''Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning'' is accepted by ACM SIGIR Conference on Research and Development in Information **(SIGIR 2026)**. 
-- *2025.07*: &nbsp;🎉🎉 Our paper ''Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems'' is accepted by 19th ACM Conference on Recommender Systems **(RecSys 2025)**. 
-- *2025.01*: &nbsp;🎉🎉 Our paper ''LLM-based federated recommendation'' is accepted by Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics **(NAACL 2025 Findings)**. 
-
-# 📝 Selected Publications 
-
-- **ReportLogic: Evaluating Logical Quality in Deep Research Reports**
-
-  **Jujia Zhao**, Zhaoxin Huan, Zihan Wang, Xiaolu Zhang, Jun Zhou, Suzan Verberne, and Zhaochun Ren
-
-  **ACL 2026** \| [Paper](https://arxiv.org/abs/2602.18446) \| Code
-
-- **Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning**
-
-  **Jujia Zhao**, Zihan Wang, Shuaiqun Pan, Suzan Verberne, and Zhaochun Ren
-
-  **SIGIR 2026** \| [Paper](https://arxiv.org/abs/2601.09496) \| Code
-
-- **Unifying Search and Recommendation with Dual-View Representation Learning in a Generative Paradigm**
-
-  **Jujia Zhao**, Wenjie Wang, Chen Xu, Xiuying Chen, Zhaochun Ren and Suzan Verberne
-
-  **TOIS 2026** \| Paper \| Code
-
-- **Model Meets Knowledge: Analyzing Knowledge Types for Conversational Recommender Systems**
-
-  **Jujia Zhao**, Yumeng Wang, Zhaochun Ren and Suzan Verberne
-
-  **RecSys 2025** \| [Paper](https://dl.acm.org/doi/10.1145/3705328.3748152) \| [Code](https://github.com/Polaris-JZ/CRS)
-
-- **A Federated Framework for LLM-based Recommendation**
-
-  **Jujia Zhao**, Wenjie Wang, Chen Xu, See-Kiong Ng and Tat-Seng Chua
-
-  **NAACL 2025 findings** \| [Paper](https://arxiv.org/abs/2402.09959) \| [Code](https://github.com/Polaris-JZ/FELLRec)
-
-- **Denoising Diffusion Recommender Model**
-
-  **Jujia Zhao**, Wenjie Wang, Yiyan Xu, Teng Sun, Fuli Feng and Tat-Seng Chua
-
-  **SIGIR 2024** \| [Paper](https://arxiv.org/abs/2401.06982) \| [Code](https://github.com/Polaris-JZ/DDRM)
-
-- **Popularity-aware Distributionally Robust Optimization for Recommendation System**
-
-  **Jujia Zhao**, Wenjie Wang, Xinyu Lin, Leigang Qu, Jizhi Zhang and Tat-Seng Chua
-
-  **CIKM 2023** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615492) \| [Code](https://github.com/Polaris-JZ/PDRO)
-
-
-# 💻 Internships
-- *2025.07 - 2025.12*, Research Intern, **Ant Group** (Mentor: [Zhaoxin Huan](https://openreview.net/profile?id=%7EZhaoxin_Huan1) and [Dr. Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en)), Hangzhou, China.
-- *2022.08 - 2024.06*, Research Intern, **NExT++ Research Center** (Supervisor: [Prof. Wenjie Wang](https://wenjiewwj.github.io/) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com/)), Singapore.
-
-# 📖 Educations
-
-  <div class='school-box'>
-  <div><img src='images/Leiden_logo.jpeg' alt="sym" width="80"></div>
-  <div class='school-box-text' markdown="1">
-  2024.07 - *Present*
-
-  PhD Candidate
-
-  **Leiden University**, The Netherlands
-  </div>
-  </div>
-
-  <div class='school-box'>
-  <div><img src='images/NUS_logo.jpeg' alt="sym" width="80"></div>
-  <div class='school-box-text' markdown="1">
-  2022.08 - 2024.06
-
-  Master of Science
-
-  **National University of Singapore**, Singapore
-  </div>
-  </div>
-
-
-
-  <div class='school-box'>
-  <div><img src='images/BIT_logo.png' alt="sym" width="80"></div>
-  <div class='school-box-text' markdown="1">
-  2018.08 - 2022.06
-
-  Bachelor of Automation
-
-  **Beijing Institute of Technology**, Beijing
-  </div>
-  </div>
-
-# 🔭 Professional Services
-- Invited Journal Reviewer for TOIS, TKDE, TIST
--	Program Committee Member of KDD'24, SIGIR'25, SIGIR'26
-- Area Chair of ACL ARR 2026
+<section id="education"><div class="section-head"><span>05</span><h2>Education</h2></div><article class="education"><img src="{{ '/images/Leiden_logo.jpeg' | relative_url }}" alt="" loading="lazy"><div><h3>Leiden University</h3><p class="muted">Ph.D. in Computer Science</p></div><time>Jul 2024 – Present</time></article><article class="education"><img src="{{ '/images/NUS_logo.jpeg' | relative_url }}" alt="" loading="lazy"><div><h3>National University of Singapore</h3><p class="muted">M.Sc. in Industry 4.0 · NExT++ Research Center</p></div><time>Aug 2022 – Jun 2024</time></article><article class="education"><img src="{{ '/images/BIT_logo.png' | relative_url }}" alt="" loading="lazy"><div><h3>Beijing Institute of Technology</h3><p class="muted">B.Eng. in Automation</p></div><time>Aug 2018 – Jun 2022</time></article></section>
+<section id="service"><div class="section-head"><span>06</span><h2>Academic service</h2></div><p><strong>Area Chair:</strong> ACL Rolling Review (2026).</p><p><strong>Journal reviewer:</strong> TOIS, TKDE, TIST, TORS.</p><p><strong>Program committee:</strong> KDD ’24, SIGIR ’25, WWW ’26, SIGIR ’26, WSDM ’27, ICLR ’27, WWW ’27.</p></section>
